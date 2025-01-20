@@ -1,4 +1,4 @@
-## Hi there 👋
+lohith's first repository
 
 <!--
 **sailohith11/sailohith11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
